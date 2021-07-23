@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_weather_by_city">Search weather by city</string>
+    <string name="_0_c">0*C</string>
+    <string name="city_name">City Name</string>
+    <string name="today_s_weather">Today\'s Weather</string>
+</resources>
